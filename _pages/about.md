@@ -11,6 +11,13 @@ I'm Juan Caicedo, a researcher and graduate student in Carleton University's Dep
 
 Outside of academia, I have conducted research in a variety of contexts, often with a focus on political and economic issues and education. Most recently, I worked as the Data and Impact Team Assistant at the STEM education non-profit Let's Talk Science, developing qualitative and quantitative insights into reach among Canadian youth nation-wide. I’ve also conducted research for and fact-checked reports and articles on subjects ranging from corporate lobbying, policing and technology, climate change, and more for In These Times, the Action Center on Race and the Economy (ACRE), and Vice Canada.
 
+
+
+
+
+
+
+
 A data-driven personal website
 ======
 Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
