@@ -1,14 +1,12 @@
 ---
 permalink: /
-title: "About Me"
+title: "Welcome"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Welcome
-=====
 I'm Juan Caicedo, a researcher and graduate student in Carleton University's Department of Sociology, particularly interested in the intersection of education, political economy, and labour. I earned a B.A. in Political Science with Honours at the University of Chicago and an M.A. in Political Science at York University concurrently with a Diploma in Democratic Administration.
 
 Outside of academia, I have conducted research in a variety of contexts, often with a focus on political and economic issues and education. Most recently, I worked as the Data and Impact Team Assistant at the STEM education non-profit Let's Talk Science, developing qualitative and quantitative insights into reach among Canadian youth nation-wide. I’ve also conducted research for and fact-checked reports and articles on subjects ranging from corporate lobbying, policing and technology, climate change, and more for In These Times, the Action Center on Race and the Economy (ACRE), and Vice Canada.
