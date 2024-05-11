@@ -21,7 +21,7 @@ repository               : "juandcaicedo/juandcaicedo.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "propic.png"
   name             : "Juan Caicedo"
   pronouns         : # example: "she/her"  
   bio              : "Researcher interested in education, labour, and political economy"
