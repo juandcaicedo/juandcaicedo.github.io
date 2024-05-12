@@ -7,4 +7,4 @@ redirect_from:
   - /resume
 ---
 
-<embed src="{{ site.baseurl }}/files/template.pdf" width="600" height="700" type='application/pdf'>
+<embed src="{{ site.baseurl }}/files/template.pdf" width="400" height="300" type='application/pdf'>
