@@ -9,4 +9,4 @@ redirect_from:
 
 You can download a PDF copy of my resume [here](https://juandcaicedo.github.io/files/template.pdf)
 
-<embed src="{{ site.baseurl }}/files/template.pdf" width="400" height="300" type='application/pdf'>
+<embed src="{{ site.baseurl }}/files/template.pdf" width="100" height="100" type='application/pdf'>
